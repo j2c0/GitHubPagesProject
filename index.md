@@ -1,6 +1,6 @@
 # Jacquelyn Co
 ![](/images/pfp.jpg)
-<img src="pfp.jpg" alt="profile" height="200"/>
+<img src="pfp.jpg" height="200"/>
 
 ## Aspiring Software Engineer
 *In the words of Steve Ballmer:*
