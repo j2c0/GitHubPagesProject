@@ -5,7 +5,7 @@
 
 ## Computer Science Major at UC San Diego  
 *In the words of Steve Ballmer:*
->Computer Science is the operating system for all innovation
+>Computer Science is the operating system for all innovation ![](https://www.bth.se/wp-content/uploads/2015/09/AdobeStock_107797389-2560x1200.jpg).
 
 ## ABOUT ME
 ***Hello! I am Jacquelyn Co. I am an incoming second year pursuing Computer Science at the University of California, San Diego. Here, I am working toward a future in the tech community where I can express and see my creative ideas come to life.***
