@@ -1,5 +1,5 @@
 # Jacquelyn Co
-![PFP](/images/pfp.jpg)
+![PFP](/images/pfp.jpg =100x20)
 
 ## Aspiring Software Engineer
 *In the words of Steve Ballmer:*
