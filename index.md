@@ -7,7 +7,7 @@
 *In the words of Steve Ballmer:*
 >Computer Science is the operating system for all innovation
 
-### ABOUT ME
+## ABOUT ME
 ***Hello! I am Jacquelyn Co. I am an incoming second year pursuing Computer Science at the University of California, San Diego. Here, I am working toward a future in the tech community where I can express and see my creative ideas come to life.***
 
 ***Currently, I have great interest in the fields of:*** 
