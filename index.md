@@ -1,5 +1,4 @@
-# Jacquelyn Co 
-## Aspiring Software Engineer
+# Jacquelyn Co  - Aspiring Software Engineer
 ![](/images/pfp.jpg)
 <img src="pfp.jpg" height="200"/>
 
@@ -8,22 +7,29 @@
 >Computer Science is the operating system for all innovation
 
 ## ABOUT ME
-***Hello! I am Jacquelyn Co. I am an incoming second year pursuing Computer Science at the University of California, San Diego. Here, I am working toward a future in the tech community where I can express and see my creative ideas come to life.***
+**Hello! I am Jacquelyn Co. I am an incoming second year pursuing Computer Science at the University of California, San Diego. Here, I am working toward a future in the tech community where I can express and see my creative ideas come to life.**
 
-***Currently, I have great interest in the fields of:*** 
+**Currently, I have _great_ interest in the fields of:** 
 
 1. Software Engineering/Development 
      - App development 
      - Web development
 2. Project Management 
 
-***I am eager to learn and be a part of the tech community. Please feel free to contact me, I would love to join your team!  
-To learn more about me, click the link below!***  
+**I am eager to learn and be a part of the tech community. Please feel free to _contact me_, I would love to join your team!  
+To learn more about me, click the link below!**  
 [Get To Know More About Me!](https://j2c0.github.io/JacquelynCo/).
 
 **Name:** Jacquelyn Co  
 **Profile:** UC San Diego Computer Science Student  
 **City:** San Diego  
+![](https://mk0edsource0y23p672y.kinstacdn.com/wp-content/uploads/2020/05/geisel-hr-1200x750.jpg)
+<img src="https://mk0edsource0y23p672y.kinstacdn.com/wp-content/uploads/2020/05/geisel-hr-1200x750.jpg" width="200" height="200"/>
+![](https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/flights-at-torrey-pines-gliderport-san-diego-alex-nikitsin.jpg)
+<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/flights-at-torrey-pines-gliderport-san-diego-alex-nikitsin.jpg" width="200" height="200"/>
+![](https://cse.ucsd.edu/sites/cse.ucsd.edu/files/2018-07/DSC_5872.jpg)  
+<img src="https://cse.ucsd.edu/sites/cse.ucsd.edu/files/2018-07/DSC_5872.jpg" width="200" height="200"/>
+
 **Technical Skills:** 
 - C++
 - Java 
@@ -33,12 +39,11 @@ To learn more about me, click the link below!***
 **Courses:** 
 - Data Structures & Object Oriented Design
 - Software Tools & Techniques (Git,Linux/Unix, IntelliJ, etc.)
+     - *Some of the basic Git commands I've learned in this class are:*
+     ```
+     git status
+     git add
+     git commit
+     ``` 
 - CodeCademy: WebDevelopment
 - Intro to Computer Science I & II: Java
-
-*Some of the basic Git commands I've learned in these clases are:*
-```
-git status
-git add
-git commit
-```
