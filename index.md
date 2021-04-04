@@ -8,8 +8,7 @@
 
 ***Currently, I have great interest in the fields of:*** 
 
-1. Software Engineering
-   - Software Development 
+1. Software Engineering/Development 
      - App development 
      - Web development
 2. Project Management 
