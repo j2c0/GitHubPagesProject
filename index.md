@@ -1,5 +1,5 @@
 # Jacquelyn Co
-![profile](/images/pfp.jpg)
+![](/images/pfp.jpg)
 <img src="pfp.jpg" alt="profile" height="200"/>
 
 ## Aspiring Software Engineer
