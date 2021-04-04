@@ -24,7 +24,6 @@ To learn more about me, click the link below!**
 **Profile:** UC San Diego Computer Science Student  
 **City:** San Diego  
 ![](https://mk0edsource0y23p672y.kinstacdn.com/wp-content/uploads/2020/05/geisel-hr-1200x750.jpg)
-![](https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/flights-at-torrey-pines-gliderport-san-diego-alex-nikitsin.jpg)
 ![](https://cse.ucsd.edu/sites/cse.ucsd.edu/files/2018-07/DSC_5872.jpg)  
 
 **Technical Skills:** 
