@@ -16,9 +16,9 @@
 
 ***I am eager to learn and be a part of the tech community. Please feel free to contact me, I would love to join your team!***
 
-**Name:** Jacquelyn Co
-**Profile:** UC San Diego Computer Science Student
-**City:** San Diego
+**Name:** Jacquelyn Co  
+**Profile:** UC San Diego Computer Science Student  
+**City:** San Diego  
 **Technical Skills:** 
 - C++
 - Java 
