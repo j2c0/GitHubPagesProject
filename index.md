@@ -1,11 +1,10 @@
-# Jacquelyn Co
-## Aspiring Software Engineer
-![](/images/pfp.jpg)
+# Jacquelyn Co ![](/images/pfp.jpg)
 <img src="pfp.jpg" height="200"/>
+## Aspiring Software Engineer
 
-## Computer Science Major at UC San Diego  
+## Computer Science Major at UC San Diego ![](https://www.bth.se/wp-content/uploads/2015/09/AdobeStock_107797389-2560x1200.jpg).  
 *In the words of Steve Ballmer:*
->Computer Science is the operating system for all innovation ![](https://www.bth.se/wp-content/uploads/2015/09/AdobeStock_107797389-2560x1200.jpg).
+>Computer Science is the operating system for all innovation
 
 ## ABOUT ME
 ***Hello! I am Jacquelyn Co. I am an incoming second year pursuing Computer Science at the University of California, San Diego. Here, I am working toward a future in the tech community where I can express and see my creative ideas come to life.***
