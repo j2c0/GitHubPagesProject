@@ -24,18 +24,17 @@ To learn more about me, click the link below!**
 **Profile:** UC San Diego Computer Science Student  
 **City:** San Diego  
 ![](https://mk0edsource0y23p672y.kinstacdn.com/wp-content/uploads/2020/05/geisel-hr-1200x750.jpg)
-<img src="https://mk0edsource0y23p672y.kinstacdn.com/wp-content/uploads/2020/05/geisel-hr-1200x750.jpg" width="200" height="200"/>
 ![](https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/flights-at-torrey-pines-gliderport-san-diego-alex-nikitsin.jpg)
-<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/flights-at-torrey-pines-gliderport-san-diego-alex-nikitsin.jpg" width="200" height="200"/>
 ![](https://cse.ucsd.edu/sites/cse.ucsd.edu/files/2018-07/DSC_5872.jpg)  
-<img src="https://cse.ucsd.edu/sites/cse.ucsd.edu/files/2018-07/DSC_5872.jpg" width="200" height="200"/>
 
 **Technical Skills:** 
 - C++
 - Java 
+- C
 - HTML
 - CSS
 - Python
+
 **Courses:** 
 - Data Structures & Object Oriented Design
 - Software Tools & Techniques (Git,Linux/Unix, IntelliJ, etc.)
@@ -47,3 +46,10 @@ To learn more about me, click the link below!**
      ``` 
 - CodeCademy: WebDevelopment
 - Intro to Computer Science I & II: Java
+
+**What Languages or FrameWorks to Master Next:**
+- [x] JavaScript
+- [ ] C#
+- [ ] React
+- [ ] SQL
+- [ ] Angular
