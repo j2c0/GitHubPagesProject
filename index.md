@@ -1,8 +1,9 @@
 # Jacquelyn Co
+## Aspiring Software Engineer
 ![](/images/pfp.jpg)
 <img src="pfp.jpg" height="200"/>
 
-## Aspiring Software Engineer
+## Computer Science Major at UC San Diego  
 *In the words of Steve Ballmer:*
 >Computer Science is the operating system for all innovation
 
