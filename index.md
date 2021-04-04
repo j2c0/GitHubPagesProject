@@ -1,4 +1,5 @@
 # Jacquelyn Co
+
 ## Aspiring Software Engineer
 *In the words of Steve Ballmer:*
 >Computer Science is the operating system for all innovation
@@ -13,7 +14,8 @@
      - Web development
 2. Project Management 
 
-***I am eager to learn and be a part of the tech community. Please feel free to contact me, I would love to join your team!***
+***I am eager to learn and be a part of the tech community. Please feel free to contact me, I would love to join your team! To learn more about me, click the link below!***
+[Get To Know More About Me!](https://j2c0.github.io/JacquelynCo/).
 
 **Name:** Jacquelyn Co  
 **Profile:** UC San Diego Computer Science Student  
