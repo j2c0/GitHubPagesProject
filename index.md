@@ -3,7 +3,7 @@
 ![](/images/pfp.jpg)
 <img src="pfp.jpg" height="200"/>
 
-## Computer Science Major at UC San Diego ![](https://www.bth.se/wp-content/uploads/2015/09/AdobeStock_107797389-2560x1200.jpg).  
+## Computer Science Major at UC San Diego ![](https://www.bth.se/wp-content/uploads/2015/09/AdobeStock_107797389-2560x1200.jpg)  
 *In the words of Steve Ballmer:*
 >Computer Science is the operating system for all innovation
 
