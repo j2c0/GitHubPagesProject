@@ -54,4 +54,4 @@ To learn more about me, click the link below!**
 - [ ] Angular
 
 *To find the shareable link to this site, click link below:*
-![](README.md)
+![SHARE](README.md)
