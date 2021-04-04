@@ -18,7 +18,7 @@
 
 **I am eager to learn and be a part of the tech community. Please feel free to _contact me_, I would love to join your team!  
 To learn more about me, click the link below!**  
-[Get To Know More About Me!](https://j2c0.github.io/JacquelynCo/).
+[Get To Know More About Me!](https://j2c0.github.io/JacquelynCo/)
 
 **Name:** Jacquelyn Co  
 **Profile:** UC San Diego Computer Science Student  
@@ -52,3 +52,6 @@ To learn more about me, click the link below!**
 - [ ] React
 - [ ] SQL
 - [ ] Angular
+
+*To find the shareable link to this site, click link below:*
+![](README.md)
