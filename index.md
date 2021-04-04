@@ -53,5 +53,5 @@ To learn more about me, click the link below!**
 - [ ] SQL
 - [ ] Angular
 
-*To find the shareable link to this site, click link below:*
+*To find the shareable link to this site, click link below:*  
 ![SHARE](README.md)
